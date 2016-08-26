@@ -2,7 +2,7 @@
 
 # Dashboard
 
-Provision the "End to End Industrial Automation System" dashboard to visualize the sensor data rom your Intel Edison device using RESTFul through Openstack in an Ubuntu 140.04 based Server as described under "Server Dashboard" section
+Provision the "End to End Industrial Automation System" dashboard to visualize the sensor data from your Intel Edison device using RESTFul ("Device IoT101 Inc." Section) through Openstack in an Ubuntu 140.04 based Server ("Server Dashboard" section)
 
 # MQTT Broker
 
