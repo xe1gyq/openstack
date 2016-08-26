@@ -2,7 +2,7 @@
 
 # Dashboard
 
-Provision the "End to End Industrial Automation System" dashboard with Openstack as described under Server Dashboard section to visualize sensor data from the device
+Provision the "End to End Industrial Automation System" dashboard thorugh Openstack in a Ubuntu 140.04 based Server as described under "Server Dashboard" section and connect the stream sent from your device using RESTFul to visualize the sensor data
 
 # MQTT Broker
 
