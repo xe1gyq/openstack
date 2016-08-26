@@ -32,7 +32,7 @@ root@openstackme:/var/www/html/iot101inc/UberSimpleWebsockets# cd ..
 root@openstackme:/var/www/html/iot101inc# 
 ```
 
-# IoT101 Inc .. End to End Industrial Automation System
+# IoT101 Inc. End to End Industrial Automation System
 
 http://104.236.227.50:9000/sensor?value=5
 
