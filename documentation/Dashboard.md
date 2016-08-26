@@ -222,4 +222,3 @@ root@openstackme:/var/www/html/iot101inc# python gateway.py
 
 - http://104.236.227.50/iot101inc/
 - http://104.236.227.50:9000/sensor?value=15
-
