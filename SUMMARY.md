@@ -11,7 +11,7 @@
    * [Main](documentation/Main.md)
    * [IoT101 Inc.](documentation/IoT101Inc.md)
        * [MQ Telemetry Transport](documentation/MQTelemetryTransport.md)
-   * Sensors
+   * [Sensors](documentation/Sensors.md)
 * [Server](documentation/Server.md)
    * [Dashboard](documentation/Dashboard.md)
    * [MQTT Broker](documentation/MqttBroker.md)
