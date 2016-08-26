@@ -6,6 +6,6 @@ Provision the "End to End Industrial Automation System" dashboard to visualize t
 
 # MQTT Broker
 
-Provision a MQTT Broker with Openstack as described under Server MQTT Broker section
+Provision a MQTT Broker with Openstack as described under Server MQTT Broker section and modify your 
 
 
