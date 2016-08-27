@@ -16,11 +16,11 @@
 
 # Curso “Introducción al Internet de las Cosas”
 
-### Objetivo
+## Objetivo
 
 Comprender lo que es el Internet de las Cosas, identificar sus componentes y crear un proyecto básico usando Intel® Edison™ y Openstack.
 
-### Módulos
+## Módulos
 
 - El ecosistema alrededor del Internet de las Cosas
 - Creación de dispositivos con tarjetas Intel® Edison™
@@ -30,7 +30,7 @@ Comprender lo que es el Internet de las Cosas, identificar sus componentes y cre
 - Utilización de plataformas en la nube para la administración de los datos
 - Reto de Integración de hardware con software
 
-### Prerequisitos
+## Prerequisitos
 
 - Laptop (Linux, Windows, Mac)
 - Seguir instrucciones de instalacion de controladores USB solamente, de acuerdo a 
