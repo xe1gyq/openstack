@@ -19,7 +19,8 @@
     - Marketing
       - Name
       - Logo
-      - Tag-Line 
+      - Tag-Line
+   - 
 - Closure
   - Pitch Session
   - Winner
