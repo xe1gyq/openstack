@@ -4,7 +4,7 @@
   - Participants
   - Staff
 - Today's Mini-Hackathon
-  - Contest
+  - Mission
   - Team Roles
     - Dispositivos
     - Cloud
