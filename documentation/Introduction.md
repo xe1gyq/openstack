@@ -6,7 +6,7 @@
     - Expertise
   - Staff
     - Name
-    - Expertise 
+    - Expertise
 - Today's Mini-Hackathon
   - Mission
   - Team Roles
