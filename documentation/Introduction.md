@@ -17,6 +17,7 @@
     - Cloud
     - Version Control
     - Marketing
+      - Name 
 - Closure
   - Pitch Session
   - Winner
