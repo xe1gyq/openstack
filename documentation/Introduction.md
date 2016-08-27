@@ -20,7 +20,8 @@
       - Name
       - Logo
       - Tag-Line
-  - 
+  - Responsibilities
+    - 
 - Closure
   - Pitch Session
   - Winner
