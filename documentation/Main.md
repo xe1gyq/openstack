@@ -3,9 +3,11 @@
 ## cleanup
 
 ```sh
-root@edison:~/openstack/device#  git reset --hard
+root@edison:~# cd openstack
+root@edison:~/openstack# git reset --hard
 HEAD is now at 873c8c4 Update documentation/Introduction.md
-root@edison:~/openstack/device#  git clean -fx
+root@edison:~/openstack# git clean -fx
+root@edison:~/openstack# cd device
 root@edison:~/openstack/device# 
 ```
 
