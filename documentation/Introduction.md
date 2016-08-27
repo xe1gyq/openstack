@@ -12,6 +12,7 @@
     - Marketing
 - Closure
   - Pitch Session
+  - Winner
 
 
 # Spanish
