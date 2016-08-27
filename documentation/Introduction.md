@@ -9,9 +9,9 @@
     - Expertise
 - Today's Mini-Hackathon
   - Mission
-    - Team Work
-    - Failure
-    - Celebrate 
+    - Collaborate
+    - Fail
+    - Celebrate
   - Team Roles
     - Embedded
     - Cloud
