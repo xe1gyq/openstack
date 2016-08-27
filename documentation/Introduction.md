@@ -7,10 +7,11 @@
 Methodology
 Training Overview
 + a Contest
-Roles del Equipo
-Dispositivo
-Cloud
-Control Versiones
+- Roles del Equipo
+  - Dispositivo
+  - Cloud
+  - Control Versiones
+  - Marketing
 First thing to do is 2 minutes to choose a Team Name
 Create a Brand
 At the end of the Training you will make a 30 seconds of your update
