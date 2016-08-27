@@ -2,6 +2,8 @@
 
 - Who we are?
   - Participants
+    - Name
+    - Expertise
   - Staff
 - Today's Mini-Hackathon
   - Mission
