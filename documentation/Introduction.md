@@ -21,7 +21,9 @@
       - Logo
       - Tag-Line
   - Responsibilities
-    - 
+    - Pay Attention
+    - Answer Questions
+    - Complete Challenges
 - Closure
   - Pitch Session
   - Winner
