@@ -14,9 +14,7 @@
   - Pitch Session
   - Winner
 
-# Spanish
-
-## Curso “Introducción al Internet de las Cosas”
+# Curso “Introducción al Internet de las Cosas”
 
 ### Objetivo
 
