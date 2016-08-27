@@ -20,7 +20,7 @@
       - Name
       - Logo
       - Tag-Line
-   - 
+  - 
 - Closure
   - Pitch Session
   - Winner
