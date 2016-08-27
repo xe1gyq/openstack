@@ -1,5 +1,21 @@
 # Introduction
 
+- Who we are?
+  - Participants
+  - Staff
+0
+Methodology
+Training Overview
++ a Contest
+Roles del Equipo
+Dispositivo
+Cloud
+Control Versiones
+First thing to do is 2 minutes to choose a Team Name
+Create a Brand
+At the end of the Training you will make a 30 seconds of your update
+Questions (Along the training I’ll)
+
 
 # Spanish
 
@@ -24,3 +40,4 @@ Comprender lo que es el Internet de las Cosas, identificar sus componentes y cre
 - Laptop (Linux, Windows, Mac)
 - Seguir instrucciones de instalacion de controladores USB solamente, de acuerdo a 
   https://software.intel.com/en-us/get-started-edison-windows-step2
+
