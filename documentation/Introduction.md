@@ -3,7 +3,7 @@
 - Who we are?
   - Participants
   - Staff
-0
+
 Methodology
 Training Overview
 + a Contest
