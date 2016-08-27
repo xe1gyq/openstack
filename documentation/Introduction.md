@@ -18,7 +18,7 @@
     - Version Control
     - Marketing
       - Name
-      -  
+      - Logo 
 - Closure
   - Pitch Session
   - Winner
