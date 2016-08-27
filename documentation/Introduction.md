@@ -6,9 +6,9 @@
 - Today's Mini-Hackathon
   - Mission
   - Team Roles
-    - Dispositivos
+    - Embedded
     - Cloud
-    - Control Version
+    - Version Control
     - Marketing
 First thing to do is 2 minutes to choose a Team Name
 Create a Brand
