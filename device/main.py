@@ -11,7 +11,6 @@ import pyupm_grovespeaker as upmGrovespeaker
 import pyupm_i2clcd as lcd
 
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
-from wit import Wit
 
 credentials = ConfigParser.ConfigParser()
 credentialsfile = "credentials.config"
